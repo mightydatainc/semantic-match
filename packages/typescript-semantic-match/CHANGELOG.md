@@ -8,6 +8,10 @@ All notable changes to this package will be documented in this file.
 
 - Raised the minimum `@mightydatainc/llm-conversation` requirement to `>=1.0.11` (previously `^1.0.5`).
 
+### Fixed
+
+- Corrected the repository URL to match `mightydatainc/semantic-match` so npm can verify GitHub Actions provenance when publishing.
+
 ## [1.3.0] - 2026-03-12
 
 ### Added

@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mighty-Data-Inc/semantic-match"
+    "url": "https://github.com/mightydatainc/semantic-match"
   },
   "type": "module",
   "sideEffects": false,
